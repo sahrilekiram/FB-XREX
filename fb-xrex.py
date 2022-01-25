@@ -153,6 +153,7 @@ def pilih():
 		cara()
 	elif kontol == "3":
 		ingfo()
+	elif kontol == "4":
 		print("┃\n┣[ 1 ❯ CEK HASIL CRACK OK")
 		print("┣[ 2 ❯ CEK HASIL CRACK CP")
 		cek = input("\n [?] choose : ")
