@@ -196,7 +196,7 @@ def pilih():
 			print("┣[ + ❯ hasil crack : %s total : %s\033[0;93m"%(del_txt, len(totalcp)))
 			os.system("cat CP/%s"%(file))
 			print("\033[0;97m [#] ----------------------------------------------")
-			exit("┣[ ! ❯ jangan lupa di copy dan di simpan hasilnya")
+			exit("┣[ ! ❯ jangan lupa di copy dan di simpan hasilnya adick")
 		else:
 			menu()
 	elif kontol == "0" or "00":
